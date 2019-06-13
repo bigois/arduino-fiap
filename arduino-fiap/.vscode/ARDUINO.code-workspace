@@ -35,7 +35,6 @@
 			"*test": true,
 			"*.travis*": true,
 			"include*": true,
-			"lib*": true,
 			"platformio.ini": true
 		}
 	}
