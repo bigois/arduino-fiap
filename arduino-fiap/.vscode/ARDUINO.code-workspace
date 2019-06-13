@@ -19,6 +19,10 @@
 		{
 			"name": "light-sensor",
 			"path": "C:\\Users\\samsung\\Documents\\Projetos\\light-sensor"
+		},
+		{
+			"name": "interruptions",
+			"path": "C:\\Users\\samsung\\Documents\\Projetos\\interruptions"
 		}
 	],
 	"settings": {
